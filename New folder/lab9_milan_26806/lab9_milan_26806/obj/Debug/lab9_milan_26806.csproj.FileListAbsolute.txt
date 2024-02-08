@@ -1,0 +1,7 @@
+D:\6th sem\dot_net\lab\New folder\lab9_milan_26806\lab9_milan_26806\bin\Debug\lab9_milan_26806.exe.config
+D:\6th sem\dot_net\lab\New folder\lab9_milan_26806\lab9_milan_26806\bin\Debug\lab9_milan_26806.exe
+D:\6th sem\dot_net\lab\New folder\lab9_milan_26806\lab9_milan_26806\bin\Debug\lab9_milan_26806.pdb
+D:\6th sem\dot_net\lab\New folder\lab9_milan_26806\lab9_milan_26806\obj\Debug\lab9_milan_26806.csproj.AssemblyReference.cache
+D:\6th sem\dot_net\lab\New folder\lab9_milan_26806\lab9_milan_26806\obj\Debug\lab9_milan_26806.csproj.CoreCompileInputs.cache
+D:\6th sem\dot_net\lab\New folder\lab9_milan_26806\lab9_milan_26806\obj\Debug\lab9_milan_26806.exe
+D:\6th sem\dot_net\lab\New folder\lab9_milan_26806\lab9_milan_26806\obj\Debug\lab9_milan_26806.pdb
